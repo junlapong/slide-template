@@ -76,9 +76,9 @@ hogehogehoeghoehgo
 # Code syntax highlight
 
 ```java
-  public static void main(String[] args) {
-      // do something
-      }
+	public static void main(String[] args) {
+		// do something
+	}
 ```
 
 ---
